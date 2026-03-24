@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/shangahai/static/css/main.6c053010.css",
+    "main.js": "/shangahai/static/js/main.aedf1a9c.js",
+    "static/media/background.png": "/shangahai/static/media/background.f46fc2e61797458052d1.png",
+    "static/media/ph19.jpeg": "/shangahai/static/media/ph19.95bd4d6e0c037e612145.jpeg",
+    "static/media/ph21.jpeg": "/shangahai/static/media/ph21.bf4b6eacd07a2f9028ff.jpeg",
+    "static/media/ph28.jpeg": "/shangahai/static/media/ph28.d20b98d2bc48527f9653.jpeg",
+    "static/media/ph18.jpeg": "/shangahai/static/media/ph18.854a72cdd4797d6b880e.jpeg",
+    "static/media/ph20.jpeg": "/shangahai/static/media/ph20.fbb3ee91be00d85965ee.jpeg",
+    "static/media/ph11.jpeg": "/shangahai/static/media/ph11.2a2f547cbf57d74e8146.jpeg",
+    "static/media/ph23.jpeg": "/shangahai/static/media/ph23.bcb7b047165850af5fc1.jpeg",
+    "static/media/ph24.jpeg": "/shangahai/static/media/ph24.c8212c99c399b1c7f61b.jpeg",
+    "static/media/ph15.jpeg": "/shangahai/static/media/ph15.9b9e244f4e3cd257fbe4.jpeg",
+    "static/media/ph17.jpeg": "/shangahai/static/media/ph17.556dfe02cbe45db939b3.jpeg",
+    "static/media/ph2.jpeg": "/shangahai/static/media/ph2.c8e63388c76825d585a8.jpeg",
+    "static/media/ph27.jpeg": "/shangahai/static/media/ph27.ac83993c22c33d13816c.jpeg",
+    "static/media/ph25.jpeg": "/shangahai/static/media/ph25.1813dedc10515be87e06.jpeg",
+    "static/media/ph29.jpeg": "/shangahai/static/media/ph29.72f0fb755569036d69fa.jpeg",
+    "static/media/ph13.jpeg": "/shangahai/static/media/ph13.42de0337208e12505a01.jpeg",
+    "static/media/ph30.jpeg": "/shangahai/static/media/ph30.c9b0e20c934be9db9fde.jpeg",
+    "static/media/ph12.jpeg": "/shangahai/static/media/ph12.9dc3a98f6399e6e89327.jpeg",
+    "static/media/ph3.jpeg": "/shangahai/static/media/ph3.0c1fc8bad0e73777993a.jpeg",
+    "static/media/ph22.jpeg": "/shangahai/static/media/ph22.351a70bc6496b11775bd.jpeg",
+    "static/media/ph4.jpeg": "/shangahai/static/media/ph4.0fd8ac9d323b4e6a316f.jpeg",
+    "static/media/ph16.jpeg": "/shangahai/static/media/ph16.4e4ec7afedd4e20db344.jpeg",
+    "static/media/ph26.jpeg": "/shangahai/static/media/ph26.b555d3fd1fd77dfd1056.jpeg",
+    "static/media/ph8.jpeg": "/shangahai/static/media/ph8.91daa82775f827ce4012.jpeg",
+    "static/media/ph9.jpeg": "/shangahai/static/media/ph9.ef93a5330641ad5e7c5d.jpeg",
+    "static/media/ph14.jpeg": "/shangahai/static/media/ph14.ff6f9972d617b91a4801.jpeg",
+    "index.html": "/shangahai/index.html",
+    "main.6c053010.css.map": "/shangahai/static/css/main.6c053010.css.map",
+    "main.aedf1a9c.js.map": "/shangahai/static/js/main.aedf1a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c053010.css",
+    "static/js/main.aedf1a9c.js"
+  ]
+}
